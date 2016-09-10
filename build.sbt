@@ -1,4 +1,4 @@
-me := "fun-prog-scala"
+name := "fun-prog-scala"
 
 version := "1.0"
 
